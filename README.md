@@ -55,3 +55,5 @@ A tabela enviada no e-mail destaca, com cores (vermelho para "não" e verde para
 ![image](https://github.com/user-attachments/assets/e4c1b471-d603-45c8-b707-5b5de49b6e72)  
 
 ---
+
+Este foi um resumo geral do projeto, destacando apenas os pontos que considero mais importantes. Para uma compreensão mais detalhada, confira o projeto completo.
