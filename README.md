@@ -26,7 +26,7 @@ As importações foram organizadas em duas categorias:
 
 ## **Início do Web Scraping**  
 
-Após configurar o navegador e carregar o arquivo que será referência para as buscas, começo a extração do valor atual de mercado de cada item. Durante esse processo, limpo caracteres especiais antes de realizar cada busca, garantindo que o link dinâmico seja gerado corretamente para cada produto.  
+Após configurar o navegador e carregar o arquivo que será referência para as buscas, ai comecei a extração do valor atual de mercado de cada item. Durante esse processo, limpo caracteres especiais antes de realizar cada busca, garantindo que o link dinâmico seja gerado corretamente para cada produto.  
 
 ---
 
